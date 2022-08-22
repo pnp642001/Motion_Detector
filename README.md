@@ -3,6 +3,8 @@
 
 ### NOTE:
 
+For better understanding, please watch the demonstration video.
+
 ## Description
 
 This project is about creating a simple motion detector software which will provide a log of all the motions detected.
