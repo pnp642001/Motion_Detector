@@ -1,6 +1,8 @@
 
 # Motion Detector using Python
 
+### NOTE:
+
 ## Description
 
 This project is about creating a simple motion detector software which will provide a log of all the motions detected.
